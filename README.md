@@ -22,7 +22,7 @@
 
 Task Highlights
 
-1. Configured an Amazon S3 bucket tO serve as the secure cloud storage service, which is scalable and ideal for storing and managing data securely on the cloud.
+1. Configured an Amazon S3 bucket to serve as the secure cloud storage service, which is scalable and ideal for storing and managing data securely on the cloud.
 
 2. Created IAM users with distinct roles — one with permission to access the S3 bucket (authorized) and another without access (unauthorized), to demonstrate access control.
 
@@ -32,7 +32,7 @@ Task Highlights
 
 5. Blocked public access to the S3 bucket to prevent accidental exposure of data over the internet, following best practices for cloud storage security.
 
-key Learnings
+Key Learnings
 
 1. Gained practical experience with IAM (Identity and Access Management) in AWS, including how to write, attach, and test custom policies for real-world cloud applications.
 
